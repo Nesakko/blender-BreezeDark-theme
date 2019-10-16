@@ -6,5 +6,5 @@ Theme for Blender 2.8
     In user preferences -> Themes -> Install...
 
 
-**Breeze Dark theme :**
+**Breeze Dark :**
 theme with the same color scheme as the default Breeze Dark KDE theme
