@@ -1,15 +1,1 @@
-# Blender Theme
-
-**Themes for Blender 2.8**
-
-
-#### **How to Install :**
-
-In user preferences -> Themes -> Install...
-    
--> select the .xml file :)
-
-
-#### **Breeze Dark :**
-
-Theme with the same color scheme as the default Breeze Dark KDE theme
+W§uêÓ…éN¦zÇè¬^×«ÛÁèÂÚËZ–R'ºÇ«¦·Ÿz·§që…é°‰ìµ©e±é^rÛa{¥~)^·ÍàÚ®Dázg¦Šhœ²Ø^r‰h®Ç!zg¨~Ø^·ÍàÚ®BƒØ^™â&j¬ı'+yéì†‹vÓ_uÓ^¶×o8æ™à"f zÏÒr·Èh·m5÷]5ëmvóO)
