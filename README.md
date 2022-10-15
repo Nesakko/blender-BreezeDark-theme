@@ -1,8 +1,8 @@
 # Blender Theme
 
-#### **Themes for Blender 2.8**
-
 #### **How to Install :**
+
+Open Blender :)
 
 In user preferences -> Themes -> Install...
 -> select the .xml file :)
